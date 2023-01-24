@@ -22,17 +22,17 @@
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "20765181",
       "required": true
     },
     "APP_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "e8ec2b740ac91dfce31faa3ef654d1a4",
       "required": true
     },
     "MONGO_URI": {
       "description": "Create A Database In Mongodb And Get URL",
-      "value": "",
+      "value": "mongodb+srv://Nihilanth1:<password>@kaosmedya.zpnychq.mongodb.net/?retryWrites=true&w=majority",
       "required": true
       
     },
@@ -92,7 +92,7 @@
     },
     "OWNER_ID": {
       "description": "Your Id",
-      "value": "",
+      "value": "5894454190",
       "required": true
     },
     "OPERATORS": {
@@ -172,7 +172,7 @@
     },
     "LOGS_CHANNEL_ID": {
       "description": "Id of your log group/channel",
-      "value": "",
+      "value": "-1001897131842",
       "required": true
     },
     "ALLOW_FORWARDS_COMMANDS": {
@@ -182,12 +182,12 @@
     },
     "TOKEN": {
       "description": "Tg bot token by @BotFarther",
-      "value": "",
+      "value": "5908712200:AAE9oqJDNW4TExrpQVY3wC5FwjR5qj-vSw0",
       "required": true
     },
     "STRING_SESSION": {
       "description": "run repl run And get your String Session",
-      "value": "",
+      "value": "BACXs5blks3_wlxnf43MDfKqtTzvI2PH4RI_9eZ9m-gZQQV6bRA3373ZyPris91DjUfdY0kifETJiuuKfd4cm1ZEbHvYk-_nShqDjjgKZJmZ8-nqrVtt7QEY7Bo5KqNPIjHCtwyzpLng9IHGuoKuqAtJ75_G4NN30IUgMVdd21HMMLDzRLowBjSsrIPzoHfdHPWRBAQyXaYkm5dvsOyk3_GIinhJ4GohRQU136nbCADCnVjAKfxSFdOqHMvQNJYHCRXlF0ntWBWoRcF92KCHJkg1XPetWQkyUZ3IDZmFdkqiu15oB6aNI1t3Ni9vnat_1DUgUSWtTqx6tBlsBOVLvlJ1AAAAAV9WO64A",
       "required": true
     }
   }
