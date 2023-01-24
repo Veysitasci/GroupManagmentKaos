@@ -18,8 +18,8 @@ ok = """ ____  ____  __  ____   __   _  _
 Thunder
 """
 print(ok)
-APP_ID = int(input("Enter APP ID here: \n"))
-API_HASH = input("Enter API HASH here: \n")
+APP_ID = int(input("20765181: \n"))
+API_HASH = input("e8ec2b740ac91dfce31faa3ef654d1a4: \n")
 
 client = TelegramClient(StringSession(), APP_ID, API_HASH)
 with client:
